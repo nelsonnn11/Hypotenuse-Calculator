@@ -1,0 +1,31 @@
+
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+#aLabel{
+  background-color: #AFD5AA;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  width: 100px;
+  cursor: pointer;
+}
+#bLabel {
+  background-color: #AFD5AA;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  width: 100px;
+  cursor: pointer;
+}
+button{
+  background-color: #AFD5AA;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  width: 50px;
+  cursor: pointer;
+}
+
+body {background-color:#F0F2EF;}
